@@ -1,2 +1,2 @@
 # Empty Hearth (Jogo)
- Jogo
+Um jogo feito no construct.
